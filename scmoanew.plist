@@ -1,29 +1,29 @@
 <plist version="1.0">
-<dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>http://moaupdate.capitalwater.cn/scmoanew.ipa</string>
-</dict>
-</array>
-<key>metadata</key>
-<dict>
-<key>bundle-identifier</key>
-<string>scmoanew</string>
-<key>bundle-version</key>
-<string>1.0.0</string>
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>scmoanew</string>
-</dict>
-</dict>
-</array>
-</dict>
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://moaupdate.capitalwater.cn/scmoanew.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>scmoanew</string>
+                    <key>bundle-version</key>
+                    <string>1.0.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>scmoanew</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
 </plist>
